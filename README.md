@@ -1,10 +1,11 @@
-<h1 align="center"> My names Leo Lira </h1>
+<h1 align="center"> My name is Leo Lira </h1>
 <div align="center">
 <h3>Data Engineer | Machine Learning | Data Science</h3>
 
-<!--  <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/liradiniz/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a> 
+ </a>
+    <!--  
     
   <a href="http://api.whatsapp.com/send?phone=5581992724174" alt="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
