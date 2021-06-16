@@ -1,16 +1,16 @@
-<h1 align="center"> My name is Leo Lira </h1>
+<h1 align="center">Leo Lira </h1>
 <div align="center">
 <h3>Data Engineer | Machine Learning | Data Science</h3>
 
 <a href="https://www.linkedin.com/in/liradiniz/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
-    <!--  
+     
     
-  <a href="http://api.whatsapp.com/send?phone=5581992724174" alt="WhatsApp">
+  <a href="http://api.whatsapp.com/send?phone=5516981438827" alt="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
-  
+  <!-- 
   <a href="brunoamaral89680@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
     </a>
