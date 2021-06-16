@@ -20,7 +20,7 @@
  <img width="200" align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" /> 
  <img width="200" align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" /> 
  <img width="200" align="right" src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" alt="seaborn" />
- <img width="200" align="right" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" />  
+ <img width="150" align="right" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" />  
  
   <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireStrings&layout=compact&langs_count=16&theme=dark"/>
