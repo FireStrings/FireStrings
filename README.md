@@ -15,12 +15,13 @@
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
     </a>
  </div>
-<!-- 
 ---
- 
+ <!--
  <img width="200" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
  <img width="200" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" />
+ <img width="200" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" />
 
+ 
 ### *Learn about some technologies like Linux and Shell script automation and am focusing on studies for the Linux Essentials certification.*
 
 ---
