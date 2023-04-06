@@ -19,7 +19,7 @@
 <div align="center">
  <img width="200" align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" /> 
  <img width="200" align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" /> 
- <img width="200" align="right" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" />
+ <img width="200" align="right" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" />
  <img width="150" align="right" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" />  
  
   
